@@ -1,0 +1,29 @@
+.heading{
+  color: green;
+  text-align:center;
+}
+
+.subheading{
+  color:blue;
+  text-align:center;
+  display:block;
+}
+
+.section h1{
+  color:blue;
+  text-transform:uppercase;
+}
+
+table{
+  border-width: 1px;
+  border-style: solid;
+  border-color:black;
+  border-collapse: collapse;
+}
+
+th, td{
+  border-width: 1px;
+  border-style: solid;
+  border-color:black;
+  text-align:center;
+}
